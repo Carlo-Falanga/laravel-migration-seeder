@@ -1,5 +1,5 @@
 @php
-    $time = now() -> format("H:i");
+ $time = now() -> format("H:i:s")
 @endphp
 
 <!DOCTYPE html>
